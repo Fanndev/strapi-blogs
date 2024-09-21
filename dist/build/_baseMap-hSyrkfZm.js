@@ -1,0 +1,1 @@
+import{_ as b}from"./_baseEach-Di8Zypgr.js";import{bp as n}from"./strapi-B-LHh8jx.js";var _=b,f=n;function m(a,s){var e=-1,r=f(a)?Array(a.length):[];return _(a,function(i,p,t){r[++e]=s(i,p,t)}),r}var o=m;export{o as _};
